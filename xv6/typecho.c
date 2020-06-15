@@ -1,3 +1,6 @@
+#include "types.h"
+#include "user.h"
+
 char buf[512]
 
 int main(void)
